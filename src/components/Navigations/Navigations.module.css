@@ -1,0 +1,25 @@
+.nav {
+  margin-right: 260px;
+  margin-top: 25px;
+  margin-left: 10px;
+
+  font-size: larger;
+  text-align: left;
+  font-size: 20px;
+}
+
+.link {
+  margin-right: 20px;
+  text-decoration: none;
+  color: #4f4245;
+  font-weight: bold;
+}
+
+.active {
+  color: #4f4245;
+  text-shadow: 2px 2px 6px #722f37;
+  font-weight: bold;
+  margin-right: 20px;
+  text-decoration: underline;
+  transition: 1s;
+}

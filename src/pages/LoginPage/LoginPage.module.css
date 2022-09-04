@@ -1,0 +1,36 @@
+.loginForm {
+  width: 270px;
+  text-align: left;
+  margin: auto;
+}
+
+.labelName {
+  margin-right: 10px;
+  color: #4f4245;
+  font-weight: 500;
+}
+
+label {
+  margin-bottom: 10px;
+  display: flex;
+}
+
+.formTitle {
+  color: #722f37;
+}
+
+.formBtn {
+  color: #722f37;
+  background-color: rgba(221, 173, 175, 0.5);
+  font-weight: bold;
+  border-color: #722f37;
+  margin-left: 200px;
+  border-radius: 6px;
+  transition: 0.5s;
+}
+
+.formBtn:hover {
+  transform: scale(0.9);
+  background-color: #ddadaf;
+  box-shadow: 0 14px 28px #d9cfe7, 0 10px 10px #722f37;
+}

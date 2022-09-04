@@ -1,0 +1,49 @@
+.addBtn {
+  border-radius: 5px;
+  border: 2px solid #4f4245;
+  background-color: #ddadaf;
+  font-weight: bold;
+  cursor: pointer;
+  height: 30px;
+  width: 130px;
+  margin-top: 45px;
+}
+
+.addBtn:hover {
+  background-color: #722f37;
+  transform: scale(1.1);
+  box-shadow: 0 14px 28px #d9cfe7, 0 10px 10px #722f37;
+  transition: 1s;
+  color: whitesmoke;
+}
+
+.input {
+  box-shadow: 0 14px 28px #d9cfe7, 0 10px 10px #722f37;
+  height: 15px;
+  margin-left: 10px;
+  border-radius: 6px;
+}
+
+.form {
+  margin-right: 100px;
+  display: flex;
+}
+
+.formBox {
+  display: flex;
+}
+.btnName {
+  font-size: 18px;
+}
+
+.phonebookTitle {
+  font-size: 18px;
+}
+
+.contactLabel {
+  margin-right: 20px;
+  display: inline-block;
+  text-align: center;
+  color: #722f37;
+  font-weight: 500;
+}

@@ -1,0 +1,37 @@
+.userMenu {
+  margin-left: auto;
+  padding-right: 10px;
+}
+
+.outBtn {
+  width: 85px;
+  height: 20px;
+  margin-left: 10px;
+  color: #722f37;
+  background-color: rgba(221, 173, 175, 0.5);
+  font-weight: bold;
+  border-color: #722f37;
+  border-radius: 6px;
+  transition: 0.5s;
+}
+
+.outBtn:hover {
+  transform: scale(0.9);
+  background-color: #ddadaf;
+  border-color: rgb(205, 46, 46);
+  box-shadow: 0 14px 28px #d9cfe7, 0 10px 10px rgb(205, 46, 46);
+}
+
+.userTitle {
+  display: inline-block;
+  color: #722f37;
+  font-style: italic;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.userName {
+  color: rgb(108, 8, 165);
+  font-weight: bold;
+  text-shadow: 0 14px 28px #d9cfe7, 0 10px 10px rgb(108, 8, 165);
+}

@@ -1,0 +1,8 @@
+.header {
+  border: 2px solid #4f4245;
+  background-color: rgba(221, 173, 175, 0.5);
+  height: 80px;
+  position: sticky;
+  box-shadow: 0 14px 28px #d9cfe7, 0 10px 10px #722f37;
+  display: flex;
+}
