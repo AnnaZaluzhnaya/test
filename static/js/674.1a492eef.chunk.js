@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_homework_template=self.webpackChunkreact_homework_template||[]).push([[674],{8674:function(e,t,r){r.r(t),r.d(t,{default:function(){return n}});r(2791);var a="HomePage_homeTitle__MKDla",o=r(184),n=function(){return(0,o.jsx)("div",{children:(0,o.jsxs)("h1",{className:a,children:["Welcome to our website. ",(0,o.jsx)("br",{})," Register, create your phonebook \ud83d\udd6e and manage it effectively!"]})})}}}]);
+//# sourceMappingURL=674.1a492eef.chunk.js.map
